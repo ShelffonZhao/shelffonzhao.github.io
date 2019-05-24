@@ -15,6 +15,7 @@ tags:
 
 ## What is Batch Normalization?
 
+
 The detail of this technique can be found in [8.7.1 Batch Normalization, Deep Learning](http://www.deeplearningbook.org/contents/optimization.html).
 ---
 

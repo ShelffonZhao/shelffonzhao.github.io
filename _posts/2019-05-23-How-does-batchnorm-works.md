@@ -10,7 +10,7 @@ tags:
     - DL
 ---
 
-> “🙉🙉🙉 ”
+> “Hello, Batch Normalization”
 
 
 ## What is Batch Normalization?
